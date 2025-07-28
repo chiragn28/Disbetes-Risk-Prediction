@@ -1,0 +1,2 @@
+Hi, this is Chirag Nayak. (cnayak70@gmail.com)
+Run the Diabetes_training.py it will generate the .pkl file while showing insights into performance metrics between logistic regresion vs random forest. It shows accuracy, precision, recall, F1 score etc. Then run streamlit run app.py it will let you use the trained model to perform prediction and show explanation in graph using SHAP.
